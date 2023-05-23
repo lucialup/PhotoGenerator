@@ -1,0 +1,9 @@
+PhotoGenerator app automatically generates photos for Android Emulator
+
+###############################################################
+
+!!!!!!!!!! Storage permissions need to be granted after the app is loaded
+
+Steps to follow to grant storage access:
+1. Go to Settings -> App permissions -> Storage
+2. Enable Storage Permissions for the app
